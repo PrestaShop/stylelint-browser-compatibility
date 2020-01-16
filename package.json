@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-browser-compatibility",
+  "version": "1.0.0",
+  "description": "Stylelint rule to avoid browser compatibility properties errors",
+  "main": "browser-compat.js",
+  "devDependencies": {
+    "doiuse": "^4.2.0",
+    "postcss": "^7.0.26",
+    "stylelint": "^13.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PrestaShop/stylelint-browser-compatibility.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "PrestaShop",
+  "license": "OSL-3.0",
+  "bugs": {
+    "url": "https://github.com/PrestaShop/stylelint-browser-compatibility/issues"
+  },
+  "homepage": "https://github.com/PrestaShop/stylelint-browser-compatibility#readme"
+}
