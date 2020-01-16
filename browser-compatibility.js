@@ -11,8 +11,8 @@ var messages = stylelint.utils.ruleMessages(ruleName, {
 });
 
 module.exports = stylelint.createPlugin(ruleName, function(
-  enabled,
-  options
+    enabled,
+    options
   ) {
   if (!enabled) {
     return;

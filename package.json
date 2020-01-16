@@ -2,7 +2,7 @@
   "name": "stylelint-browser-compatibility",
   "version": "1.0.0",
   "description": "Stylelint rule to avoid browser compatibility properties errors",
-  "main": "browser-compat.js",
+  "main": "browser-compatibility.js",
   "devDependencies": {
     "doiuse": "^4.2.0",
     "postcss": "^7.0.26",
