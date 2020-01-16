@@ -2,7 +2,7 @@ const stylelint = require('stylelint');
 const doiuse = require('doiuse');
 const postcss = require('postcss');
 
-var ruleName = "prestashop/browser-compatibility";
+var ruleName = "prestashop/stylelint-browser-compatibility";
 
 var messages = stylelint.utils.ruleMessages(ruleName, {
   expected: function(value) {
