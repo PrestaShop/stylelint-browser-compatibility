@@ -17,7 +17,7 @@ $ npm install stylelint-browser-compatibility --save-dev
 ## Usage
 
 1. Add `"stylelint-browser-compatibility"` to your stylelint config plugins array
-2. Add `"prestashop/no-unsupported-browser-features"` to your stylelint config rules
+2. Add `"prestashop/stylelint-browser-compatibility"` to your stylelint config rules
 3. Enable the rule by setting it to `true`, or pass optional extra configuration
 
 ## Options
