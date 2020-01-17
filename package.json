@@ -19,7 +19,7 @@
     "stylelint"
   ],
   "author": "PrestaShop",
-  "license": "OSL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PrestaShop/stylelint-browser-compatibility/issues"
   },
