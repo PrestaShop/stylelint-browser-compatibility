@@ -5,7 +5,7 @@
   "main": "browser-compatibility.js",
   "devDependencies": {
     "doiuse": "^4.2.0",
-    "postcss": "^8.2.10",
+    "postcss": "^8.2.13",
     "stylelint": "^13.0.0"
   },
   "scripts": {
